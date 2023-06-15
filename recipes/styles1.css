@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:azure;
+    color:black;
+}
+
+img {
+    height: auto;
+    width: 530px;
+}
+
+h1 {
+    font-weight: 800;
+    background: rgba(255, 242, 225, 0.95);
+    width: 600px;
+}
+
+h2,
+h3 {
+    font-weight: 800;
+    background: rgb(235, 214, 186);
+    width:530px;
+}
+
+.sec {
+    background-color:rgb(217, 249, 249);
+    width: 490px;
+}
+
+p.sec {
+    width:530px;
+}
+
+.sec.ingredients {
+    font-weight: 550;
+    text-align: left;
+    
+}   

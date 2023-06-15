@@ -1,0 +1,20 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:azure;
+    color:black;
+}
+
+
+h1 {
+    background: rgba(255, 242, 225, 0.95);
+    width: 600px;
+    text-align:center;
+}
+
+
+ul {
+    background-color:rgb(217, 249, 249);
+    width:520px;
+    list-style: upper-latin;
+    text-align:justify;
+}
