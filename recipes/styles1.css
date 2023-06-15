@@ -2,6 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color:azure;
     color:black;
+    text-align: left;
 }
 
 img {
@@ -32,7 +33,12 @@ p.sec {
 }
 
 .sec.ingredients {
-    font-weight: 550;
     text-align: left;
     
-}   
+}
+
+.steps li {
+    list-style-position: outside;
+    padding-bottom: 10px;
+    paddign
+}
