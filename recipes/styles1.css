@@ -21,11 +21,14 @@ h3 {
     font-weight: 800;
     background: rgb(235, 214, 186);
     width:530px;
+    margin: 10px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .sec {
     background-color:rgb(217, 249, 249);
     width: 490px;
+    margin: 8px 0px;
 }
 
 p.sec {
@@ -34,11 +37,13 @@ p.sec {
 
 .sec.ingredients {
     text-align: left;
-    
+}
+
+.steps {
+    margin-bottom: 5px;
 }
 
 .steps li {
     list-style-position: outside;
     padding-bottom: 10px;
-    paddign
 }
